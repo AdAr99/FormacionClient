@@ -4,7 +4,7 @@ Un programa cliente que utiliza el microservicio de Curso para hacer varias func
 
 # Instalación
 
-1. Asegurate de tener la extensión de SPRING BOOT
+1. Asegúrate de tener la extensión de SPRING BOOT
 
 2. Ten las dependencias de Spring Web
 
@@ -12,6 +12,6 @@ Un programa cliente que utiliza el microservicio de Curso para hacer varias func
 
 # Funciones
 
-1. Listar todas las formaciones, para ello tendremos que hacer la conversion de cursos a formaciones.
+1. Listar todas las formaciones, para ello tendremos que hacer la conversión de cursos a formaciones.
 
-2. Añadir una formacion que no este repetida.
+2. Añadir una formación que no esté repetida.
